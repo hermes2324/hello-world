@@ -1,2 +1,2 @@
 # hello-world
-Este repositorio es para practicar el flujo de GitHub
+Me llamo hermes francisco verdugo gomez, tengo 21  años, cumplo el 23 de octubre naci en el año del 2004
